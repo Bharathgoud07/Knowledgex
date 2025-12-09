@@ -126,7 +126,7 @@ Use Gunicorn as the start command.
 
 🧑‍💻 Author
 
-Built by Bharath goud – B.Tech CSE student (MRCET COLLEGE), focusing on Django, Python, and real-world student tools.
+Built by Bharath goud – B.Tech CSE student (MRCET COLLEGE), focusing on Django, Python, and real-world student tools
 
 
 
